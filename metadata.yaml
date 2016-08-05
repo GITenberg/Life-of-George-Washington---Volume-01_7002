@@ -1,0 +1,27 @@
+_repo: Life-of-George-Washington---Volume-01_7002
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Washington, George, 1732-1799'
+- GITenberg
+title: Life of George Washington — Volume 01
+url: http://www.gutenberg.org/ebooks/7002
